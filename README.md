@@ -1,1 +1,1 @@
-# exercicio-1
+# POSTECH - Tech Challenge - Fase 2
